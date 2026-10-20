@@ -37,7 +37,7 @@ the stall torques of both Dynamixel AX12-A (1.5 N-m)/ AX18-A (1.8 N-m). The Dime
 6) Gripper - 60mm
 7) Total Teeth in Gripper Gear = 26
 8) Module of Gripper Teeth = 0.9615
-![CAD Design(Follower)](images/cad_arm.png)
+![CAD Design(Follower)](images/cad_arm.jpg)
 ![CAD Design(Leader Gripper Handle)](images/cad_arm.png)
 
 ## System Overview
