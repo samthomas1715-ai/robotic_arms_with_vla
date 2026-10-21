@@ -72,7 +72,7 @@ Dataset was trained on LeRobot ACT(Action Chunking with Transformer). ACT is an 
 ![ACT Policy](images/act.png) 
 
 ## Policy Deployment
-![Autonomous Task Execution](images/deploy.png) 
+![Autonomous Task Execution](images/deploy.gif) 
 
 
 
