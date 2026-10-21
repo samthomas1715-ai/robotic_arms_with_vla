@@ -56,7 +56,7 @@ def record_teleop():
         video_files_size_in_mb=0.001)  
     
 
-    print("Ready, Press 's' to save an episode,\n 'd' to delete the current recording, \n 'q' to quit.")
+    print(" Press 's' to save an episode,\n 'd' to delete the current recording, \n 'q' to quit.")
 
     try:
         while True:   
