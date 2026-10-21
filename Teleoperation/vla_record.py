@@ -4,7 +4,7 @@ import numpy as np
 from lerobot.datasets import LeRobotDataset
 
 
-from dynamixel import Dynamixelline, DynamixelController
+from dynamixel_functions import Dynamixelline, DynamixelController
 import config as con
 import time
 import calib as cb
