@@ -1,4 +1,26 @@
 # Leader Follower Robotic arms with VLA
+## Structure
+robotic_arms_with_vla/
+│
+├── Simulation/
+│   ├── teleop_mujoco.py/
+│   ├── forward_kinematics_mujoco.py/
+│   └── inverse_kinematics_mujoco.py/
+│
+├── Teleoperation/
+│   ├── CAD/
+│   ├── Dynamixel_Control/
+│   └── Leader_Follower/
+│
+├── VLA/
+│   ├── Camera_Setup/
+│   ├── Dataset_Collection/
+│   ├── ACT_Training/
+│   └── Policy_Deployment/
+│
+├── images/
+│
+└── README.md
 
 ## Objective
 To develop a leader-follower robotic arm system for teleoperation such that follower arm imitates the leader arm, where leader arm is manually controlled, and
