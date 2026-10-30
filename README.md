@@ -1,5 +1,5 @@
 # Leader Follower Robotic arms with VLA
-## Structure
+## Repository Structure
 ```text
 robotic_arms_with_vla/
 │
