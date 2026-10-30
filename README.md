@@ -88,7 +88,7 @@ LeRobot Environment was setup. For the procedure, follow -[LeRobot Installation]
 ## Dataset collection 
 Dataset was collected with the help of teleoperation to pick up and place a pink paper ball inside a yellow container. In each episode, the encoder values of leader
 gets stored in a .paraquet file and videos from both camera gets stored as .mp4 file. Around 78 such episodes were recorder and combined together before training.
-![Dataset Collection](images/dataset_collection.gif) 
+![Dataset Collection](images/data_collection.gif) 
 
 ## Policy Training
 Dataset was trained on LeRobot ACT(Action Chunking with Transformer). ACT is an imitation-learning policy that uses multi-camera visual observations and the robot's current state to predict a sequence of future robot actions, learned from human teleoperation demonstrations.
