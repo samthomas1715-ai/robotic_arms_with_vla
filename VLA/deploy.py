@@ -18,7 +18,7 @@ NUM_JOINTS = 6
 
 if torch.cuda.is_available():
     DEVICE = "cuda"
-    print("CUDA works... Using GPU")
+    print("CUDA works..Using GPU")
 else:
     DEVICE = "cpu"
     print("Using CPU")
@@ -126,8 +126,8 @@ def main():
        
         test_state = np.zeros(NUM_JOINTS, dtype=np.float32)
 
-        print("\nStarting two-camera inference test.")
-        print("No motor commands will be sent.")
+        print("\nStarting two-camera inference test")
+        print("No motor commands will be sent")
         print("Press Q in either camera window to exit.\n")
 
         while True:
